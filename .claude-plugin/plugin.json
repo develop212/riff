@@ -1,0 +1,10 @@
+{
+  "name": "riff",
+  "version": "0.2.0",
+  "description": "Design a website in the style of another site without cloning it: extract its design DNA, build an original version, and run an originality check.",
+  "author": { "name": "Murad" },
+  "homepage": "https://github.com/develop212/riff",
+  "repository": "https://github.com/develop212/riff",
+  "license": "MIT",
+  "keywords": ["design", "frontend", "vibe-coding", "design-system", "inspiration", "originality"]
+}

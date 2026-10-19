@@ -1,0 +1,12 @@
+{
+  "name": "riff",
+  "owner": { "name": "Murad" },
+  "plugins": [
+    {
+      "name": "riff",
+      "source": "./",
+      "description": "Design a website in the style of another site without cloning it.",
+      "version": "0.2.0"
+    }
+  ]
+}
